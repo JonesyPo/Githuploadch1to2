@@ -18,6 +18,12 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="a01.cpp" />
+    <ClCompile Include="lab2.1.cpp" />
+    <ClCompile Include="lab2.2.cpp" />
+    <ClCompile Include="lab2.3.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{AFC0DE8C-AB2E-427B-97A7-B0403079A9F5}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
@@ -145,12 +151,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\..\..\School Work\2016\Winter\CS 161\Week 2\a01.cpp" />
-    <ClCompile Include="..\..\..\..\School Work\2016\Winter\CS 161\Week 2\completed lab files\lab2.1.cpp" />
-    <ClCompile Include="..\..\..\..\School Work\2016\Winter\CS 161\Week 2\completed lab files\lab2.2.cpp" />
-    <ClCompile Include="..\..\..\..\School Work\2016\Winter\CS 161\Week 2\completed lab files\lab2.3.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

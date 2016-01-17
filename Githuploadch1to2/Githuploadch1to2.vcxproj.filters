@@ -15,16 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\School Work\2016\Winter\CS 161\Week 2\completed lab files\lab2.1.cpp">
+    <ClCompile Include="a01.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\School Work\2016\Winter\CS 161\Week 2\completed lab files\lab2.2.cpp">
+    <ClCompile Include="lab2.1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\School Work\2016\Winter\CS 161\Week 2\completed lab files\lab2.3.cpp">
+    <ClCompile Include="lab2.2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\School Work\2016\Winter\CS 161\Week 2\a01.cpp">
+    <ClCompile Include="lab2.3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
